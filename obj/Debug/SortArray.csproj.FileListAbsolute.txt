@@ -1,0 +1,7 @@
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\bin\Debug\SortArray.exe.config
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\bin\Debug\SortArray.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\bin\Debug\SortArray.pdb
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\obj\Debug\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\obj\Debug\SortArray.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\SortArray\SortArray\obj\Debug\SortArray.pdb
